@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola, Bienvenido a mi perfil!  
 
-<!--
-**JuanJoseArciniegas2005/JuanJoseArciniegas2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://mi-imagen-enlace.com/banner.png)  
 
-Here are some ideas to get you started:
+## *Juan José Arciniegas Castillo*  
+### Ingeniero de Sistemas y Telecomunicaciones  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de la *Universidad de Manizales, actualmente en **5º semestre* de Ingeniería de Sistemas y Telecomunicaciones.  
+
+Siento mucho interes por las nuevas tecnologias que lleguen dia a dia, on la finalidad de estudiarlas y saber de ellas 
+
+Me considero una persona *RESPETUOSA, CAPAZ, RESPONSABLE, PROACTIVA Y COMPROMETIDA*. Me gusta compartir conocimientos porque me permite ayudar a los demás, reforzar mis habilidades y aprender de otras personas. 🚀  
+
+
+
+
+
+---
+
+### 💻 *Las tecnologías que más uso:*  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+---
+
+### 🚀 *Otras tecnologías que conozco:*  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+
+---
+
+### 🎓 *Donde he estudiado:*  
+![Universidad de Manizales](https://img.shields.io/badge/Universidad_de_Manizales-Blue?style=flat&logo=google-scholar&logoColor=white)  
+
+---
